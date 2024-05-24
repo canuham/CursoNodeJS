@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/canuham/CursoNodeJS/issues"
   },
-  "homepage": "https://github.com/canuham/CursoNodeJS#readme"
+  "homepage": "https://github.com/canuham/CursoNodeJS#readme",
+  "devDependencies": {
+    "semistandard": "17.0.0"
+  },
+  "eslintConfig": {
+    "extends": "semistandard"
+  }
 }
