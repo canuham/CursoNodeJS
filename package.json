@@ -1,0 +1,27 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "El mejor curso de node por $0",
+  "main": "index.js",
+  "dependencies": {
+    "picocolors": "1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canuham/CursoNodeJS.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "javascript"
+  ],
+  "author": "Juan Camilo Vargas Lopera - Caraham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canuham/CursoNodeJS/issues"
+  },
+  "homepage": "https://github.com/canuham/CursoNodeJS#readme"
+}
